@@ -15,7 +15,7 @@
 - UI/UX design improvements for mobile apps  
 
 ## 📫 How to Reach Me  
-- Telegram: [@simpforhotmen](https://t.me/simpforhotmen)  
+- Telegram: [@cloudreil](https://t.me/cloudreil)
 
 ## 🛠 Check Out My Pet Projects!  
 - [Dreamy](https://github.com/CloudreiL/Dreamy_project)
